@@ -1,5 +1,6 @@
 {
   "name": "quicksell-frontend",
+  "homepage": "https://sriraj-valeti.github.io/quicksell-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
