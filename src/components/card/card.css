@@ -1,0 +1,31 @@
+.Card-Container{
+    background-color: white;
+    border: 1px solid snow;
+    border-radius: 10px;
+    width: 380px;
+    box-shadow: 0 0 10px rgba(81, 80, 80, 0.5);
+    padding: 15px;  
+    margin-top: 20px;  
+}
+
+
+.Card-Id{
+    color: rgb(74, 74, 74);
+    font-size: large;
+}
+
+.Card-Heading{
+    font-size: larger;
+    margin-top: 10px;
+}
+
+.Card-Tag{
+    margin-top: 15px
+}
+
+.Card-Tag>span{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 2px;
+    margin-right: 10px;
+    padding: 2px;
+}
